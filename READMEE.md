@@ -1,20 +1,20 @@
-\# Proyecto de prueba
+# Proyecto de prueba
 
 
 
-\## Integrantes
+## Integrantes
 
 
 
-\- Juan
+- Juan
 
-\- María
+- María
 
-\- Pedro
+- Pedro
 
 
 
-\## Descripción
+## Descripción
 
 
 
