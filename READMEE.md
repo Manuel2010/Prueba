@@ -18,5 +18,6 @@ Este es un texto en *cursiva*.
 
 ![Foto de prueba](IMAGENES/IM.jpg)
 
-'''python
+```python
 print("Hola, mundo!")
+```
