@@ -16,4 +16,4 @@ Este es un texto en *cursiva*.
 
 [Universidad Peruana Cayetano Heredia](https://www.cayetano.edu.pe/)
 
-![Foto de prueba](imagenes/IM.jpg)
+![Foto de prueba](IMAGENES/IM.jpg)
