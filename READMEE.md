@@ -17,3 +17,6 @@ Este es un texto en *cursiva*.
 [Universidad Peruana Cayetano Heredia](https://www.cayetano.edu.pe/)
 
 ![Foto de prueba](IMAGENES/IM.jpg)
+
+'''python
+print("Hola, mundo!")
