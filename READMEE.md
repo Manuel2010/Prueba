@@ -21,3 +21,10 @@ Este es un texto en *cursiva*.
 ```python
 print("Hola, mundo!")
 ```
+
+| Integrante | Rol | Responsabilidad |
+|---|---|---|
+| Juan | Coordinador | Organización del proyecto |
+| María | Diseño | Desarrollo CAD |
+| Pedro | Programación | Código y pruebas |
+
