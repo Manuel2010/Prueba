@@ -1,22 +1,30 @@
-# Proyecto de prueba
+\# Proyecto de prueba
 
 
 
-## Integrantes
+\## Integrantes
 
 
 
-- Juan
+\- Juan
 
-- María
+\- María
 
-- Pedro
+\- Pedro
 
 
 
-## Descripción
+\## Descripción
 
 
 
 Este repositorio se utilizará para aprender Git y GitHub.
+
+
+
+Este es un texto en \*\*negrita\*\*.
+
+
+
+Este es un texto en \*cursiva\*.
 
